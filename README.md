@@ -57,7 +57,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a branch</h2></summary>
 
 _Welcome to "Introduction to GitHub"! :wave:_
@@ -222,7 +222,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations, you've completed this course and joined the world of developers!_
